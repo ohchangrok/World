@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{ADA25930-1277-EF72-E0B6-14059D4729C2}") = "OCRWorld_3", "Assembly-CSharp-firstpass.csproj", "{93DB2E2B-4D2F-8268-F934-18E0C3E35D41}"
+EndProject
+Project("{ADA25930-1277-EF72-E0B6-14059D4729C2}") = "OCRWorld_3", "Assembly-CSharp.csproj", "{11F7FA3D-4A5F-F2F3-C3AA-0B236662C0BF}"
+EndProject
+Project("{ADA25930-1277-EF72-E0B6-14059D4729C2}") = "OCRWorld_3", "Assembly-CSharp-Editor.csproj", "{327FF367-4AB5-7309-ED44-E4A2B0BC14C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93DB2E2B-4D2F-8268-F934-18E0C3E35D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93DB2E2B-4D2F-8268-F934-18E0C3E35D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93DB2E2B-4D2F-8268-F934-18E0C3E35D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93DB2E2B-4D2F-8268-F934-18E0C3E35D41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11F7FA3D-4A5F-F2F3-C3AA-0B236662C0BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F7FA3D-4A5F-F2F3-C3AA-0B236662C0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F7FA3D-4A5F-F2F3-C3AA-0B236662C0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F7FA3D-4A5F-F2F3-C3AA-0B236662C0BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{327FF367-4AB5-7309-ED44-E4A2B0BC14C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327FF367-4AB5-7309-ED44-E4A2B0BC14C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327FF367-4AB5-7309-ED44-E4A2B0BC14C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327FF367-4AB5-7309-ED44-E4A2B0BC14C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

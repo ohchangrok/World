@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 62edee6a418cc754dae21f4e6ca50cc0
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bip01
+    100004: Bip01 Pelvis
+    100006: Bip01 Spine
+    100008: Bip01 Spine1
+    100010: Bone06
+    100012: Bone06(mirrored)
+    100014: Bone08
+    100016: Bone08(mirrored)
+    100018: Wings
+    400000: //RootNode
+    400002: Bip01
+    400004: Bip01 Pelvis
+    400006: Bip01 Spine
+    400008: Bip01 Spine1
+    400010: Bone06
+    400012: Bone06(mirrored)
+    400014: Bone08
+    400016: Bone08(mirrored)
+    400018: Wings
+    4300000: Wings
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Wings
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Bip01 Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01 Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01 Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone06(mirrored)
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone08(mirrored)
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone06
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone08
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Archu_Wings(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bip01
+      position: {x: 9.171586e-11, y: 0.045386028, z: 0.0020982146}
+      rotation: {x: -0.5000003, y: 0.4999997, z: 0.4999997, w: 0.5000003}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bip01 Pelvis
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.49999964, y: 0.50000036, z: 0.49999964, w: 0.50000036}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bip01 Spine
+      position: {x: -0.00516129, y: 0.00056012673, z: 0.0000000056037788}
+      rotation: {x: -0.0000021194735, y: 0.00000073538496, z: -0.06250469, w: 0.99804467}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bip01 Spine1
+      position: {x: -0.0085263485, y: -0.000008074939, z: -2.2396307e-11}
+      rotation: {x: 0.0070089907, y: 0.11627952, z: -0.18130396, w: 0.9765034}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: Bone06
+      position: {x: -0.0072526834, y: -0.01064249, z: 0.003946047}
+      rotation: {x: 0.79373837, y: 0.30121073, z: -0.42952964, w: 0.30782434}
+      scale: {x: 0.99999976, y: 1.0000004, z: 1.000001}
+      transformModified: 1
+    - name: Bone08
+      position: {x: -0.018454002, y: 0.0000002670288, z: 0.000000002980232}
+      rotation: {x: 0.00000006905292, y: 0.000000015381348, z: -0.17870736, w: 0.9839023}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: Bone06(mirrored)
+      position: {x: -0.007252736, y: -0.010642508, z: -0.0039315987}
+      rotation: {x: 0.24763857, y: -0.19648588, z: 0.32017812, w: 0.893059}
+      scale: {x: 1.0000011, y: 1.0000002, z: 0.99999964}
+      transformModified: 1
+    - name: Bone08(mirrored)
+      position: {x: -0.018454002, y: -0.00000030517577, z: -8.9406965e-10}
+      rotation: {x: -0.00000045736923, y: 0.00000017297187, z: 0.17870753, w: 0.9839022}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000002}
+      transformModified: 1
+    - name: Wings
+      position: {x: -0.000037841797, y: -0.00000051745286, z: -2.2618612e-14}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
